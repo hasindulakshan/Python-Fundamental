@@ -4,3 +4,5 @@ list2 = list1[2:5]  # Get the elements from index 2 to 4. this is called slicing
 print(list2)  # Output: [3, 4, 5]
 
 # we can use [:-1] to get all elements without the last element. [-1] to get the last element.
+
+# we can always slice strings, tuples, and sets in the same way as lists. but we cannot slice dictionaries. because dictionaries are unordered.
