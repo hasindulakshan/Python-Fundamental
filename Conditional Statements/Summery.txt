@@ -1,0 +1,5 @@
+# Conditional Statements in python, used for decision making.
+
+(1) if statement - if statement is used to execute a block of code only if the condition is true.
+(2) elif statement - elif statement is used to check multiple expressions for TRUE and execute a block of code as soon as one of the conditions is TRUE.
+(3) else statement - else statement is used to execute a block of code if the condition is false.
