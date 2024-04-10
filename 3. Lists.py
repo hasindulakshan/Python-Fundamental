@@ -24,3 +24,17 @@ print(z)
 
 is_10_in_my_list = 10 in my_list  # Check if 10 is in the list.
 print(is_10_in_my_list)
+
+# ===============================================================================================
+
+
+# Create a new list.
+
+list = [1, 2, 3, 4, 9, 6, 7, 8, 5, 10]
+
+print(len(list))  # Get the length of the list.
+# other method related to list are same as the dictionary. like clear(), copy(), count(), index(), reverse(), sort() etc.
+
+print(list.count(1))  # Count the number of times the value 1 appears in the list.
+print(list.reverse())  # Reverse the list.
+print(list.sort())  # Sort the list.
