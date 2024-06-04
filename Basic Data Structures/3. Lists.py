@@ -36,5 +36,7 @@ print(len(list))  # Get the length of the list.
 # other method related to list are same as the dictionary. like clear(), copy(), count(), index(), reverse(), sort() etc.
 
 print(list.count(1))  # Count the number of times the value 1 appears in the list.
-print(list.reverse())  # Reverse the list.
-print(list.sort())  # Sort the list.
+list.reverse() # Reverse the list.
+print(list)
+list.sort()# Sort the list.
+print(list)
