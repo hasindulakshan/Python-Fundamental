@@ -63,6 +63,4 @@ Navigate through the course by following the sections provided. Each section is 
 2. **Completing Exercises**
    Practice the exercises provided in each section. You can check your solutions against the provided answers.
 
-## License
 
-This project is licensed under the MIT License. See the LICENSE file for details..
