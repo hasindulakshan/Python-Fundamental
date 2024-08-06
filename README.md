@@ -1,66 +1,66 @@
-# Python Beginner Course
+# Python Beginner Course: Basic Data Structures
 
-Welcome to the Python Beginner Course repository! This course is designed to help you get started with Python programming from scratch. Whether you're completely new to programming or looking to add Python to your skillset, this course provides a comprehensive guide to help you become proficient in Python.
+Welcome to the Python Beginner Course, which is focused on basic data structure, conditional statements, loops, and more.
 
-## Table of Contents
+In this course, you'll learn fundamental data structures in Python such as dictionaries, lists, sets, and tuples. These data structures are essential for organizing and manipulating data efficiently in Python programs.
 
-- Course Overview
-- Course Structure
-- Getting Started
-- Installation
-- Usage
-- License
+## Course Contents:
 
-## Course Overview
+### 1. Lists in Python
+- Lists are ordered collections of items that allow duplicates and are mutable.
+- Operations:
+  - Creating lists
+  - Accessing elements
+  - Slicing lists
+  - Modifying lists
+  - List methods
+  
+### 2. Tuples
+- Tuples are ordered collections of items that are immutable.
+- Operations:
+  - Creating tuples
+  - Accessing elements
+  - Modifying tuples
+  
+### 3. Dictionaries
+- Dictionaries are unordered collections of key-value pairs.
+- Operations:
+  - Creating dictionaries
+  - Accessing elements by key
+  - Adding and modifying elements
+  - Dictionary methods
+  
+### 4. Sets
+- Sets are unordered collections of unique elements.
+- Operations:
+  - Creating sets
+  - Adding and removing elements
+  - Set operations: union, intersection, difference, symmetric difference
+  
+## Course Structure:
 
-The Python Beginner Course covers the fundamental concepts of Python programming, including:
-- Variables and Data Types
-- Control Structures (if statements, loops)
-- Functions
-- Modules and Packages
-- File Handling
-- Error Handling
-- Object-Oriented Programming (OOP)
-- Basic Libraries (e.g., math, datetime)
+ ?
 
-## Course Structure
+## Prerequisites:
 
-The course is divided into multiple sections, each focusing on a specific topic. Each section contains:
+- Basic understanding of Python syntax and control structures (if statements, loops, functions).
+- Python installed on your computer. You can download Python from [here](https://www.python.org/downloads/).
 
-- **Code Examples**: Sample Python code to illustrate the concepts.
-- **Code Explanation**: explanation of the code.
+## Getting Started:
 
+1. Clone or download this repository to your local machine.
+   - Clone using this command - "git clone https://github.com/hasindunagolla/Python-Begginer-Course.git"
+3. Navigate to the directory where you've saved the course files.
+4. Open your preferred Python IDE or text editor.
+5. Start exploring the course content! Each section will be organized in separate Python files.
 
-## Getting Started
+## Further Resources:
 
-To get started with this course, you will need to have Python installed on your computer. Follow the instructions below to set up your environment and start learning.
+- Python documentation: [docs.python.org](https://docs.python.org/3/)
+- Real Python: [realpython.com](https://realpython.com/)
+- Python Data Structures and Algorithms by Benjamin Baka: [Packt Publishing](https://www.packtpub.com/product/python-data-structures-and-algorithms/9781786467355)
 
-## Installation
-
-1. **Clone the Repository**:
-   ```bash
-   git clone https://github.com/hasindunagolla/Python-Begginer-Course.git
-   cd Python-Begginer-Course
-2. **Install Python**:
-   Make sure you have Python 3.x installed. You can download it from the [official website](https://www.python.org/downloads/).
-3. **Set Up a Virtual Environment (optional but recommended
-   ```bash
-   python -m venv venv
-   source venv/bin/activate  # On Windows use `venv\Scripts\activate`
-4. **Install Required Packages**
-   If there are any dependencies, you can install them using:
-   ```bash
-   pip install -r requirements.txt
-
-## Usage
-
-Navigate through the course by following the sections provided. Each section is contained in a separate directory with relevant files. Start with the introductory section and move forward sequentially.
-
-1. **Running Code Examples**
-   You can run the Python scripts provided in each section to see the examples in action:
-   ```bash
-   python section_name/example.py
-2. **Completing Exercises**
-   Practice the exercises provided in each section. You can check your solutions against the provided answers.
+  
 
 
+# Happy coding!
