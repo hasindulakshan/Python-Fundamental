@@ -1,12 +1,12 @@
 # Python Beginner Course: Basic Data Structures
 
-Welcome to the Python Beginner Course focused on Basic Data Structure, Conditional Statements, Loops and more...
+Welcome to the Python Beginner Course, which is focused on basic data structure, conditional statements, loops, and more.
 
 In this course, you'll learn fundamental data structures in Python such as dictionaries, lists, sets, and tuples. These data structures are essential for organizing and manipulating data efficiently in Python programs.
 
 ## Course Contents:
 
-### 1. Lists:
+### 1. Lists in Python
 - Lists are ordered collections of items that allow duplicates and are mutable.
 - Operations:
   - Creating lists
