@@ -6,7 +6,7 @@ In this course, you'll learn fundamental data structures in Python such as dicti
 
 ## Course Contents:
 
-### 1. Lists
+### 1. Lists:
 - Lists are ordered collections of items that allow duplicates and are mutable.
 - Operations:
   - Creating lists
