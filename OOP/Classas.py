@@ -15,7 +15,7 @@ me1.age = 25
 print(me1.name, me1.age) 
 
 
-# Define a class with a attribute
+# Define a class with an attribute
 
 class Me():
     
