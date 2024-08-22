@@ -39,7 +39,7 @@ In this course, you'll learn fundamental data structures in Python such as dicti
   
 ## Course Structure:
 
-<img src="https://github.com/user-attachments/assets/ffc9893a-17d4-41de-ba8d-d35b0e111aed" width="800">
+<img src="https://github.com/user-attachments/assets/ffc9893a-17d4-41de-ba8d-d35b0e111aed" width="700">
 
 
 ## Prerequisites:
