@@ -39,12 +39,12 @@ In this course, you'll learn fundamental data structures in Python such as dicti
   
 ## Course Structure:
 
-![python_page-0001](https://github.com/user-attachments/assets/ffc9893a-17d4-41de-ba8d-d35b0e111aed)
+<img src="https://github.com/user-attachments/assets/ffc9893a-17d4-41de-ba8d-d35b0e111aed" width="800">
 
 
 ## Prerequisites:
 
-- Basic understanding of Python syntax and control structures (if statements, loops, functions).
+- Basic Python syntax and control structures (if statements, loops, functions).
 - Python installed on your computer. You can download Python from [here](https://www.python.org/downloads/).
 
 ## Getting Started:
