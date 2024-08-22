@@ -40,8 +40,9 @@ In this course, you'll learn fundamental data structures in Python such as dicti
 ## Course Structure:
 
 <div style="text-align: center;">
-    <img src="https://github.com/user-attachments/assets/ffc9893a-17d4-41de-ba8d-d35b0e111aed" style="border: 2px solid black; max-width: 100%; height: auto;">
+    <img src="https://github.com/user-attachments/assets/2737334f-710c-409b-a580-8cc67088959a" style="border: 2px solid black; max-width: 100%; height: auto;">
 </div>
+
 
 
 ## Prerequisites:
