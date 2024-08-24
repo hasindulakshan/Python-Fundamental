@@ -37,13 +37,17 @@ In this course, you'll learn fundamental data structures in Python such as dicti
   - Adding and removing elements
   - Set operations: union, intersection, difference, symmetric difference
   
-## Course Structure:
+## Road Map:
 
- ?
+<div style="text-align: center;">
+    <img src="https://github.com/user-attachments/assets/2737334f-710c-409b-a580-8cc67088959a" style="border: 2px solid black; max-width: 100%; height: auto;">
+</div>
+
+
 
 ## Prerequisites:
 
-- Basic understanding of Python syntax and control structures (if statements, loops, functions).
+- Basic Python syntax and control structures (if statements, loops, functions).
 - Python installed on your computer. You can download Python from [here](https://www.python.org/downloads/).
 
 ## Getting Started:
