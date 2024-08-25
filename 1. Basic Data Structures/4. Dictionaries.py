@@ -56,8 +56,4 @@ print(getY)
 getY.append('Hola')  # Add 'Hola' to the list.
 print(getY)
 
-print(xDic)  # see it, you does anything to y, it will affect the dictionary. but it will not affect if "a" is a basic data type. like integer.
-
-
-
-
+print(xDic)  # see it, you do anything to y, it will affect the dictionary. but it will not affect if "a" is a basic data type. like integer.
