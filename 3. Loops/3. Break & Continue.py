@@ -1,4 +1,4 @@
-# Break and Continue in While Loop used to control the flow of the loop.
+# Break and Continue in While Loop is used to control the flow of the loop.
 
 # Break statement - is used to exit the loop before the loop ends.
 
@@ -6,7 +6,7 @@ marks = 0
 while True: # This loop will run until we break it.
     
     if marks == 10:
-        break # This will break the loop when count is equal to 10.
+        break # This will break the loop when the count is equal to 10.
     
     print("Marks is: ", marks)
     marks += 1
@@ -54,5 +54,3 @@ while count < len(x) - 1:
     
     print("Item is: ", i)
     count += 1
-
-
