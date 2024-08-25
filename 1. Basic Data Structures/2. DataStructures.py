@@ -1,5 +1,6 @@
 # Data Structures in Python is a way of organizing and storing data in a computer so that it can be accessed and modified efficiently.
 
+
 # List
 
 my_list = [1, 2, 3, 4, 5]
