@@ -1,4 +1,4 @@
-"""Conditional comprehensions allows to include a condition that filters the elements used in the comprehension."""
+"""Conditional comprehensions allow to include a condition that filters the elements used in the comprehension."""
 
 # Syntax = [expression for item in iterable if condition]
 
