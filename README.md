@@ -7,15 +7,7 @@
 <h4>📚 Course Contents:</h4>
 
 <h5>📋 Lists in Python</h5>
-<ul>
-<li><strong>Lists</strong> are ordered collections of items that allow duplicates and are mutable.</li>
-<li><strong>Operations:</strong></li>
-<ul>
-<li>🆕 Creating lists</li>
-<li>🔍 Accessing elements</li>
-<li>✂️ Slicing lists</li>
-<li>✏️ Modifying lists</li>
-<li>🛠️ List methods</li>
+<
 </ul>
 </ul>
 
