@@ -20,7 +20,6 @@ print("Age: ", myTuple[3])  # Access the fourth element of the tuple.
 
 # ===============================================================================================
 
-
 # Count the number of times the value "Hasindu" appears in the tuple.
 print(myTuple.count("Hasindu"))
 

@@ -13,7 +13,7 @@ print(my_list)
 my_list.insert(0, -1)  # Add -1 at the index 0 of the list. we can add anywhere in the list using index.
 print(my_list)
 
-my_list.remove(5)   # Remove the 5 from the list. not use index, use the value to remove.
+my_list.remove(5)   # Remove the 5 from the list. Do not use an index, use the value to remove.
 print(my_list)
 
 my_list.pop()    # Remove the last element of the list.
@@ -27,13 +27,12 @@ print(is_10_in_my_list)
 
 # ===============================================================================================
 
-
 # Create a new list.
 
 list = [1, 2, 3, 4, 9, 6, 7, 8, 5, 10]
 
 print(len(list))  # Get the length of the list.
-# other method related to list are same as the dictionary. like clear(), copy(), count(), index(), reverse(), sort() etc.
+# Other methods related to the list are the same as the dictionary. like clear(), copy(), count(), index(), reverse(), sort() etc.
 
 print(list.count(1))  # Count the number of times the value 1 appears in the list.
 list.reverse() # Reverse the list.
