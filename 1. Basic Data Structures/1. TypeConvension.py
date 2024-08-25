@@ -26,4 +26,4 @@ print("String:", num_str)
 num_str = "10"
 num_int = int(num_str) # int() function converts string to int
 print("String:", num_str)
-print("Integer:", num_int)
+print("Integer:", num_int);
