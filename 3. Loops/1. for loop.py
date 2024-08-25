@@ -2,24 +2,24 @@
 
 x = [1, 2, 3, 4, 5] # List
 
-index = 0 # we use index to get the value of the list and print tha value through index of the list.
+index = 0 # We use the index to get the value of the list and print the value through an index of the list.
 for item in x:
     y = x[index]
     print(y)
     index += 1
     
-# we can also use this method to get the value of the list.
+# We can also use this method to get the value of the list.
 
 for index, item in enumerate(x): # enumerate() function is used to get the index and value of the list.
     print(index, item)
 
-# if we need to run a loop for a specific number of times then we can use range() function.
+# if we need to run a loop for a specific number of times then we can use the range() function.
 
 for item in range(0, 10):
     print(type)
 
 
-## we also can iterate dictionary using for loop.
+## We also can iterate the dictionary using a for loop.
 
 myDictionary = {
     "Age": 25,
