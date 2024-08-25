@@ -9,7 +9,7 @@ if x >= 25:
 else:
     print("You Are Not Selected")
 
-# Output: You Are Not Selected, it depending on the value of x.
+# Output: You Are Not Selected, it depends on the value of x.
 
 height = 5.7
 
