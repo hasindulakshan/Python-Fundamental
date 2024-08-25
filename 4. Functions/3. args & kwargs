@@ -37,6 +37,4 @@ def sum(*list): # *list is used to pass multiple values to the function.
         total += i
     print(total) # print the sum of all values in the list.
     
-
 sum(10, 20, 30, 40, 50, 60, 70, 80, 90, 100)
-

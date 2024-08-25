@@ -35,7 +35,7 @@ for i in list:
 
 print("Min is: ", min)
 
-## Implement using while loop
+## Implement using a while loop
 
 # find the total and average of numbers in a list
 

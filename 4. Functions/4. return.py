@@ -18,5 +18,3 @@ def get_grade(marks):
 
 grade  = get_grade(85)
 print(grade)
-
-  

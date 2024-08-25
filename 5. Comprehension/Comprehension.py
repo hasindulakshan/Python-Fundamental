@@ -1,4 +1,4 @@
-"""Comprehension is a way create data structure using other data structure
+"""Comprehension is a way to create data structure using other data structure
    (comprehensions provide a concise way to create data structures such as lists, sets, and dictionaries from existing data structures.)
 """
 # Syntax = [expression for item in iterable]
