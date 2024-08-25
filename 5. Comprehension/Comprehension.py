@@ -5,4 +5,5 @@
 listA = [1, 2, 3, 4, 5]
 listB = [i for i in listA] # Create listB using listA
 
-print(listA, listB)
+print(listA, listB) 
+
