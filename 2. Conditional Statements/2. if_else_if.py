@@ -21,7 +21,7 @@ elif marks >= 75 and marks <= 100:
 else:
     print("Invalid Marks")
 
-# we can also write above code like this,
+# We can also write the above code like this,
 
 if marks < 0 or marks > 100:
     print("Invalid Marks")
