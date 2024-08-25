@@ -9,7 +9,7 @@ if x >= 25:
 else:
     print("You Are Not Selected")
 
-# Output: You Are Not Selected, it is depend on the value of x.
+# Output: You Are Not Selected, it depends on the value of x.
 
 height = 5.7
 
@@ -20,7 +20,7 @@ else:
 
 print(job)
 
-# we can write above code in one line like this,
+# We can write the above code in one line like this,
 
 job = "Security" if height >= 5.5 else "Labor" # this method is called Ternary Operator
 print(job)
