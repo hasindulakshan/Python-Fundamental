@@ -3,6 +3,7 @@
 # Indentation - is a space at the beginning of a code line. It is used to define a block of code.
 
 x = 10
+y = 20
 
 if x >= 25:
     print("You Are Selected")
