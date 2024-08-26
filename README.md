@@ -1,4 +1,4 @@
-<h3>🐍 Python Beginner Course: Basic Data Structures</h3>
+<h3>Python Beginner Course</h3>
 
 <p>Welcome to the <strong>Python Beginner Course</strong>, where you'll dive into basic data structures, conditional statements, loops, and more.</p>
 
