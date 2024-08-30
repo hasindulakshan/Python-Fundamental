@@ -23,5 +23,6 @@ print(job)
 
 # We can write the above code in one line like this,
 
-job = "Security" if height >= 5.5 else "Labor" # this method is called Ternary Operator
+# this method is called Ternary Operator
+job = "Security" if height >= 5.5 else "Labor"
 print(job)
