@@ -6,11 +6,11 @@
 """List Comprehension - create lists by iterating over an iterable and specifying the expression to be included in the list
 """
 
-## Create list using values of other list
+# Create list using values of other list
 
 listA = [1, 2, 3, 4, 5]
-listB = [i for i in listA] # Create listB using listA
-print(listA, listB) 
+listB = [i for i in listA]  # Create listB using listA
+print(listA, listB)
 
 # Create a list of squares of numbers from 0 to 9
 squares = [x**2 for x in range(10)]
