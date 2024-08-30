@@ -1,5 +1,6 @@
 """ Grade statement in Python used to exit a function and go back to the place from where it was called. """
 
+
 def get_grade(marks):
     if marks < 0 or marks > 100:
         grade = None
@@ -13,8 +14,9 @@ def get_grade(marks):
         grade = 'D'
     else:
         grade = 'F'
-    
+
     return grade
 
-grade  = get_grade(85)
+
+grade = get_grade(85)
 print(grade)
