@@ -5,7 +5,7 @@
 
 myTuple = ("Hasindu", 175, "Matale", 22)  # Create a tuple.
 print(myTuple)
-print(type(myTuple)) # Get the type of the myTuple.
+print(type(myTuple))  # Get the type of the myTuple.
 
 # ===============================================================================================
 
@@ -26,5 +26,6 @@ print(myTuple.count("Hasindu"))
 # Assign values to multiple variables.
 
 hasindu = ("Hasindu", 175, "Matale", 22)
-name, height, city, age = hasindu  # Assign the values of the tuple to the variables.
-print(name, height, city, age) # Print the values of the variables.
+# Assign the values of the tuple to the variables.
+name, height, city, age = hasindu
+print(name, height, city, age)  # Print the values of the variables.
