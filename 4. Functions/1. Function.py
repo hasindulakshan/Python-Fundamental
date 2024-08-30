@@ -3,7 +3,7 @@
 # Define a function for calculating the grade of a student based on the marks
 
 def myFunction(marks, subject):
-    
+
     print("Subject: ", subject)
     if marks < 0 or marks > 100:
         print("Marks are invalid")
@@ -17,7 +17,11 @@ def myFunction(marks, subject):
         print("B")
     else:
         print("A")
-    
-myFunction(45, "Maths") # Calling the function with subject name.
-myFunction(marks= 75, subject= "Science") # Calling the function with subject name and marks. its called named argument. in this method we can pass the value of argument in any order.
+
+
+myFunction(45, "Maths")  # Calling the function with subject name.
+# Calling the function with subject name and marks. its called named argument. in this method we can pass the value of argument in any order.
+myFunction(marks=75, subject="Science")
+
+
 # myFunction(marks= 75, "Science") # cannot write positional argument after named argument. all named argument should be written after positional argument.)
