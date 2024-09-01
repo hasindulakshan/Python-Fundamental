@@ -1,6 +1,6 @@
 # Docstrings provide an explanation of what the function or class does
 
-## Example for Functions
+# Example for Functions
 
 def addNumbers(x, y):
     """
@@ -15,7 +15,8 @@ def addNumbers(x, y):
     """
     return x + y
 
-## Example for Classes
+# Example for Classes
+
 
 class Calculator:
     """
@@ -27,7 +28,7 @@ class Calculator:
     multiply(a, b): Returns the product of a and b.
     divide(a, b): Returns the quotient of a and b.
     """
-    
+
     def add(self, a, b):
         """Return the sum of a and b."""
         return a + b
