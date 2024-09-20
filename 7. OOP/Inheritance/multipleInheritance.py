@@ -8,11 +8,19 @@ class Animal:
 
     def move(self):
         print("Animal Moving")
+        
+        
+
+class Mamel:
+    def __init__(self):
+        print("Mamal Constructor: ")
+        
+    def feed(self):
+        print("Feeding Milk")
 
 
-class Dog(Animal):  # Inheriting from Animal class
+class Dog(Animal, Mamel):  
 
-    # when calling the constructor of the child class, stop the execution of the parent class constructor
     def __init__(self, name="Unknown"):
         super(Dog, self).__init__("Dog")
         self.name = name
@@ -20,20 +28,17 @@ class Dog(Animal):  # Inheriting from Animal class
     def set_name(self, name):
         self.name = name
 
-    # Method Overriding - redefine the method of parent class in child class
     def talk(self):
-        # we can explicitly call the parent class method. it is not called by default
         super(Dog, self).talk()
         print("Dog is Barking")
 
     def bark(self, message):
         msg = f"Woof Woof, My name is {self.name}, {message}"
         print(msg)
+        
+    # we also can override feed method in here
 
 
 dog1 = Dog("Scooby")
-dog1.talk()
-print(dog1.breed)
+dog1.feed()
 
-
-# Overriding - is a feature to redefine methods of parent class in child classes. 
