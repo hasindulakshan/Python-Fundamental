@@ -1,7 +1,12 @@
 name: Run tests and upload coverage
 
 on: 
-  push
+  push:
+    branches:
+      - main  # Change to your default branch if needed
+  pull_request:
+    branches:
+      - main  # Change to your default branch if needed
 
 jobs:
   test:
@@ -15,6 +20,8 @@ jobs:
 
       - name: Set up Node
         uses: actions/setup-node@v4
+        with:
+          node-version: '16'  # Specify your Node.js version
 
       - name: Install dependencies
         run: npm install
@@ -25,4 +32,4 @@ jobs:
       - name: Upload results to Codecov
         uses: codecov/codecov-action@v4
         with:
-          token: ${{ secrets.CODECOV_TOKEN }}
+          token: ${{ secrets.CODECOV_TOKEN }}  # Ensure this secret is set
