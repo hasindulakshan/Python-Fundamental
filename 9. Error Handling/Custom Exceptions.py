@@ -2,6 +2,10 @@ class InvalidAgeError(Exception):
     def __init__(self, error):
         super(InvalidAgeError, self).__init__(error)
 
+class InvalidNameError(Exception):
+    def __init__(self, error):
+        super(InvalidNameError, self).__init__(error)
+
 class Person:
     def __init__(self, name, age):
         super().__init__()
@@ -13,11 +17,12 @@ class Person:
     @staticmethod
     def get_person(name, age):
         if not name:
-            # we can raise InvalidAgeError instead of Exception, after defining class InvalidAgeError
+            # we can raise InvalidNameError instead of Exception, after defining class InvalidNameError
             # raise Exception("Name is required")
-            raise InvalidAgeError("Name is required")
+            raise InvalidNameError("Name is required")
             print("Error")
         if age < 0 or age > 120:
+            # also can use for age: raise InvalidAgeError("Age is invalid") after defining class InvalidAgeError
             raise InvalidAgeError("Age is invalid")
             return
         
