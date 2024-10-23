@@ -1,4 +1,0 @@
-Opening files: Use open() with the appropriate mode ('r', 'w', 'a', etc.).
-Reading files: Use read(), readline(), or readlines() methods.
-Writing files: Use write() or writelines() methods.
-Closing files: Always close files after use, preferably with a with statement.
